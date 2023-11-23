@@ -1,0 +1,5 @@
+ma\mundiapolis\hopital\HopitalApplication.class
+ma\mundiapolis\hopital\repository\PatientRepository.class
+ma\mundiapolis\hopital\web\PatientController.class
+ma\mundiapolis\hopital\entities\Patient.class
+ma\mundiapolis\hopital\entities\Patient$PatientBuilder.class
